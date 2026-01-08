@@ -9,6 +9,7 @@
 
 ## Requirements
 👉 Need a Laptop💻/Pc🖥️ or Any other device👨‍💻(to run commands).
+- Mandatory(ADB+Fastboot Drivers Installed).
 <br>👉 Having a way to restore♻️ stock if any device bricks📲 occurs.
 <br>👉 A data cable that supports fastboot mode.(generally original will support).
 
