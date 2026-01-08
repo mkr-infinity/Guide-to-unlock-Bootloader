@@ -1,15 +1,15 @@
-### This is the begainer guide to unlock bootloader by Kaif😇. <br> If u don't have any knowledge about this don't worry i will explain each step from beginning.
+ - This is the begainer guide to unlock bootloader.
+ - If u don't have any experience in this don't worry i will explain each step from beginning.
  
   <br>
 
   >[!NOTE]
 >This guide is for Lenovo, but logic is same depending on your device unlocking the bootloader may be different you can refer to internet.
 
-### If you find anything wrong feel free to create an issue.
 
 ## Requirements
 👉 Need a Laptop💻/Pc🖥️ or Any other device👨‍💻(to run commands).
-- Mandatory(ADB+Fastboot Drivers Installed).
+- Mandatory(ADB+Fastboot Drivers Installed in laptop).
 <br>👉 Having a way to restore♻️ stock if any device bricks📲 occurs.
 <br>👉 A data cable that supports fastboot mode.(generally original will support).
 
@@ -50,11 +50,12 @@
 📜Now run ```adb devices``` to see if your device is connected or not.
 ![adb devics.png](https://github.com/mkr-infinity/Guide-to-unlocking-bootloader/assets/125804924/8d62d8ac-5744-4f2d-8161-a94b8087f5d0)
 
-☝️☝️☝️ if showing a device like this then everything 🆗<br>
+☝️☝️☝️ if showing a device like this then everything ok 🆗<br>
 
 >[!NOTE]
->🔀If your device is not showing then try to connect data cable/usb correctly or try another data cable.
-><br>🔀If data cable is original then check if u have missed enabling usb debugging.
+>- If your device is not showing then try to connect data cable/usb correctly or try another data cable.
+>- If data cable is original then check if u have missed enabling usb debugging.
+>- If ``adb devices`` says `No Command Found` make sure u installed the drivers.
 
 👉proceeding to next step after correctly showing attached devices.
 
@@ -91,9 +92,10 @@ Then [follow same.](#running-commands)
 
 
 ## For Locking Bootloader
-🇮🇳 I think you are irritated while unlocked bootloader 😂🤣 <br>
-🇮🇳 so for u Another way to lock the bootloader🛅
-🇮🇳 All steps are same only run ```fastboot flashing lock``` instead of running ```fastboot flashing unlock```  and follow same method.
+- I think you are irritated while unlocked bootloader 😂🤣 <br>
+- So for u another way to lock the bootloader🛅
+- All steps are same only run ```fastboot flashing lock``` instead of running ```fastboot flashing unlock```  and follow same method.
+
 
 #### Summary..💁‍♂️
 ```
@@ -103,7 +105,7 @@ fastboot devices
 fastboot flashing unlock
 fastboot reboot
 ```
-
+### If you find anything wrong feel free to create an issue.
 
 #### You can join these telegram groups for help.
 [Lenovo TB-X306X](https://t.me/lenovotbx306xchat) 👈 join this for more support. <br>
