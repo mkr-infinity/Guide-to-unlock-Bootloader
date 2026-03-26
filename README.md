@@ -17,30 +17,17 @@ You are about to read a README guide… <br>
   <img src="https://img.shields.io/badge/⚡%20Mobile%20Friendly%20Guide-Open%20Now-059669?style=for-the-badge&logo=android&logoColor=white"/>
 </a></div>
 
----
-
-😎 Why You Should NOT Read This README
-
-- 🤕 Plain text = boring experience
-- 📵 Not optimized for mobile
-- 😵 Harder to follow step-by-step
-- 🐌 Feels outdated
 
 ---
 
 💎 Why Website is Better
 
 - 🎯 Clean & modern UI
-- 📱 Fully mobile optimized
+- 📱 Fully mobile/desktop optimized
 - ⚡ Smooth navigation
 - 🧠 Beginner-friendly flow
 - ✨ Feels like a real product
 
----
-
-<p align="center">
-<b>💡 Trust me… once you open it, you won’t come back here 😂</b>
-</p>
 
 ---
 
