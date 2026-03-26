@@ -1,40 +1,35 @@
-<!-- 🔥 Premium Banner Section --><h1 align="center">🚀 Hey Developer… Stop Scrolling 😏</h1><p align="center">
-You are about to read a README guide… <br>
-<strong>But why settle for boring when you can experience premium? 💎</strong>
+🔓 Bootloader Unlock Guide
+
+<p align="center">
+😄 Hey! This guide got a glow-up ✨ <br>
+It’s now smarter, cleaner, and living its best life here 👇
 </p>
 
 ---
 
 <div align="center"><a href="https://bootloader-unlock.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Open%20Modern%20Guide-Experience%20Now-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🚀%20Open%20Upgraded%20Guide-Click%20Here-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a><br><br>
 
 <a href="https://bootloader-unlock.vercel.app/">
-  <img src="https://img.shields.io/badge/✨%20Beautiful%20UI%20%2B%20Easy%20Steps-Try%20It-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/😏%20Trust%20me%20it’s%20better%20there-Try%20Now-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a><br><br>
 
+<b>👉 Or just tap this:</b><br>
 <a href="https://bootloader-unlock.vercel.app/">
-  <img src="https://img.shields.io/badge/⚡%20Mobile%20Friendly%20Guide-Open%20Now-059669?style=for-the-badge&logo=android&logoColor=white"/>
-</a></div>
+https://bootloader-unlock.vercel.app/
+</a>
 
-
----
-
-💎 Why Website is Better
-
-- 🎯 Clean & modern UI
-- 📱 Fully mobile/desktop optimized
-- ⚡ Smooth navigation
-- 🧠 Beginner-friendly flow
-- ✨ Feels like a real product
-
+</div>
 
 ---
 
 ⭐ Before You Go…
 
 <div align="center"><a href="#">
-  <img src="https://img.shields.io/badge/⭐%20Give%20a%20Star-Support%20This%20Project-FACC15?style=for-the-badge&logo=github&logoColor=black"/>
-</a><br><br>
+  <img src="https://img.shields.io/badge/⭐%20Drop%20a%20Star-If%20this%20helped%20you-FACC15?style=for-the-badge&logo=github&logoColor=black"/>
+</a></div>
 
+
+<p align="center">
 💬 <strong>Your one star = Big motivation 🚀</strong>
