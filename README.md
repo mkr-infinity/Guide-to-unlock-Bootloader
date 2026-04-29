@@ -7,9 +7,6 @@ It’s now smarter, cleaner, and living its best life here 👇
 
 ---
 
-<div align="center"><a href="https://bootloader-unlock.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀%20Open%20Upgraded%20Guide-Click%20Here-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a><br><br>
 
 <a href="https://bootloader-unlock.vercel.app/">
   <img src="https://img.shields.io/badge/😏%20Trust%20me%20it’s%20better%20there-Try%20Now-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -20,6 +17,10 @@ It’s now smarter, cleaner, and living its best life here 👇
 https://bootloader-unlock.vercel.app/
 </a>
 
+
+or
+
+[Use this if Upper Link Not Working](https://mkr-infinity.github.io/Guide-to-unlock-Bootloader) 
 </div>
 
 ---
